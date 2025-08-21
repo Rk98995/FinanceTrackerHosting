@@ -38,4 +38,3 @@ A comprehensive web application for personal finance management, built with Node
 - **dotenv** - Environment variable management
 - **body-parser** - Request parsing middleware
 
-## 📋 Prerequisites
